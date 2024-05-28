@@ -1,0 +1,2 @@
+ 调节分辨率
+ python zed_get_svo.py --output_svo_file test.svo

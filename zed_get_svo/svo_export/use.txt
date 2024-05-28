@@ -1,0 +1,1 @@
+ python svo_export.py --mode 2 --input_svo_file /home/lvpin/Desktop/get_zed_photos_svo/zed_get_svo/svo_record/test.svo --output_path_dir /home/lvpin/Desktop/get_zed_photos_svo/zed_get_svo/svo_export/output_dir
